@@ -4,7 +4,7 @@
             <li> Nalin </li>
             <li> Vishal </li>
             <li> Amit </li>
-            <li> Pradeep </li>
+            <li> Pradeep Nama </li>
             <li> Prem </li>
         </ul>
     </body>
